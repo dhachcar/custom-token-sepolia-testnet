@@ -1,0 +1,7 @@
+Todas as operações foram realizadas na testnet Sepolia da rede Ethereum
+
+endereço 1 (owner dos tokens) = https://sepolia.etherscan.io/address/0xac5ee80f2c69e7e41594ba0b78ec8dea8cb01281#tokentxns
+endereço 2 (recebedor da transação de teste) = https://sepolia.etherscan.io/address/0xB7887Ab2675c7BbFA6D7f025e8f07C1A0642aB0a
+endereço do contrato = https://sepolia.etherscan.io/address/0xbe0a28251b7956c86e0f939504a2bd9731537ebf
+tx criação do contrato = https://sepolia.etherscan.io/tx/0xc20dc845def712a98f0c4c34a68299d50ea1e7679ecc9e1f703c9e11c6657e9d
+tx transfer endereço 1 para o endereço 2 = https://sepolia.etherscan.io/tx/0x8a583aa38283005bb6716133ba21db424361d567010b2c95b68d0e3f44aabc72
